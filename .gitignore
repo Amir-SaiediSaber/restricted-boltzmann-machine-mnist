@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+DATA/
+FIG/
+WEIGHTS/
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.xdv

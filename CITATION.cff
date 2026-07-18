@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as follows."
+title: "Restricted Boltzmann Machines on MNIST"
+type: software
+authors:
+  - family-names: "Saiedi Saber"
+    given-names: "Amirmohammad"
+repository-code: "https://github.com/Amir-SaiediSaber/restricted-boltzmann-machine-mnist"
+url: "https://github.com/Amir-SaiediSaber/restricted-boltzmann-machine-mnist"
+license: MIT
+version: 1.0.0
+date-released: 2026-07-18
